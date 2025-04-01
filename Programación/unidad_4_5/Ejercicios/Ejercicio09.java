@@ -1,10 +1,11 @@
+package unidad_4_5.Ejercicios;
 // Ejercicio 9. 
 // Lee un número por teclado que pida el precio de un producto (puede tener decimales)y 
 // calcule el precio final con IVA. El IVA será una constante que será del 21%.
 
 import java.util.Scanner;
 
-public class U4y5_Ejercicio09 {
+public class Ejercicio09 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

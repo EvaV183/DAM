@@ -1,3 +1,4 @@
+package unidad_4_5.Ejercicios;
 
 import java.util.Scanner;
 
@@ -5,7 +6,7 @@ import java.util.Scanner;
 // Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es, también 
 // debemos indicarlo.
 
-public class U4y5_Ejercicio06 {
+public class Ejercicio06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("NÚMEROS DIVISIBLES POR 2");

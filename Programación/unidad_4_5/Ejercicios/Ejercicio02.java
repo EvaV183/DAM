@@ -1,8 +1,10 @@
+package unidad_4_5.Ejercicios;
+
 //Ejercicio 2.
 //Declara 2 variables numéricas (con el valor que desees), e indica cual es mayor de los dos.
 //Si son iguales indicarlo también. Ves cambiando los valores para comprobar que funciona.
 
-public class U4y5_Ejercicio02 {
+public class Ejercicio02 {
     public static void main(String[] args) {
         int num1 = 5;
         int num2 = 5;

@@ -1,8 +1,10 @@
+package unidad_4_5.Ejercicios;
+
 //Ejercicio 1
 //Declara dos variables numéricas (con el valor que desees), muestra por consola la suma,
 //resta, multiplicación, división y módulo (resto de la división).
 
-public class U4y5_Ejercicio01 {
+public class Ejercicio01 {
     public static void main(String[] args) {
         double num1 = 5;
         double num2 = 2;
