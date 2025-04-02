@@ -10,7 +10,7 @@ public class Calculadora {
         return num1;
     }
     public void setNum1(double num1) {
-        this.num1 = num1; //void porque no devuelve nada unicamente modifica el número
+        this.num1 = num1; //void porque no devuelve nada únicamente modifica el número
     }
 
     //Numero 2 - Getters and Setters
