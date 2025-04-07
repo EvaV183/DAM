@@ -1,6 +1,7 @@
 ### VS Code ###
 .vscode
-
+bin
+out
 
 # dependencies
 node_modules
@@ -13,5 +14,5 @@ node_modules
 *.code-workspace
 dist
 .env
+.iml
 
-bin
