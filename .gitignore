@@ -3,6 +3,9 @@
 bin
 out
 
+### IntelliJ ###
+.idea
+
 # dependencies
 node_modules
 /.pnp
