@@ -1,6 +1,7 @@
-## Ejercicio 5.
+## Ejercicio 5
 Realiza una clase que refleje la información de una cuenta bancaria. Debe de tener un
 número de cuenta y poder gestionar el titular, la cantidad y la última operación realizada.
+
 Además debe tener las siguientes funcionalidades:
 • Debe poder consultar el saldo actual.
 • Debe de poder ingresar dinero.
