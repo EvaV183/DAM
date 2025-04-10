@@ -1,5 +1,5 @@
 ## Ejercicio 4
-Realiza una clase llamada reloj para poder gestionar la fecha y hora. El reloj es
+Realiza una clase llamada clock para poder gestionar la fecha y hora. El clock es
 completamente modificable, con lo cual, se debe poder de establecer la fecha y hora,
 además modificarla. Aparte debe de tener la funcionalidad de devolver la fecha según
 un formato concreto por ejemplo dd/MM/yyy, yyyy/MM/dd o cualquier otro. Y
