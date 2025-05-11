@@ -1,5 +1,5 @@
 ## Ejercicio 2.
-Realiza una aplicación para gestionar vehículos que permita saber si están arrancado o
+Realiza una aplicación para gestionar vehículos que permita saber si están arrancados o
 no. Para ello crea una clase “Vehículo” que tenga los atributos marca, modelo, precio y
 estaArrancado. Esta clase debe tener:
 - Un constructor que tome tres argumentos para inicializar estos valores y
