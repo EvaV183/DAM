@@ -22,6 +22,7 @@ Porque necesitamos que la terminal o línea de comandos pueda ejecutar los coman
 
 
 ## 4 - Abre el símbolo del sistema (Inicio y escribir cmd o símbolo del sistema) y ejecutar el siguiente comando java -version. ¿Qué resultado da? (Nota - si aparece un error revisar de nuevo el punto 4. de la instalación).
+
 ```
 Microsoft Windows [Versión 10.0.19045.5608]
 (c) Microsoft Corporation. Todos los derechos reservados.
