@@ -1,8 +1,8 @@
-## Ejercicio 5.
+## Ejercicio 5
+
 Desarrolla una aplicación para representar un sistema de archivos básico. En este
 sistema de archivos, hay dos tipos de objetos con los que puedes interactuar: archivos
 y directorios.
-
 
 Cada archivo tiene un nombre y un tamaño en bytes. Cada directorio tiene un nombre y
 puede contener una cantidad arbitraria de archivos y directorios. Además, cada

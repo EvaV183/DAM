@@ -1,4 +1,5 @@
-## Ejercicio 1.
+## Ejercicio 1
+
 Desarrolla una aplicación que tenga una representación de un sistema de gestión de
 inventario para un almacén de componentes informáticos.
 

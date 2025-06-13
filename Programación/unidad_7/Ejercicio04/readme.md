@@ -1,4 +1,5 @@
-## Ejercicio 4.
+## Ejercicio 4
+
 Desarrolla una aplicación que permita gestionar instrumentos musicales. Crear una
 interfaz llamada "**InstrumentoMusical**" que declare los siguientes métodos: "tocar()",
 "afinar()" y "tipoInstrumento()".

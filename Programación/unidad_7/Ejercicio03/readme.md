@@ -1,4 +1,5 @@
-## Ejercicio 3.
+## Ejercicio 3
+
 Desarrolla una aplicación que permite calcular el área y perímetro de diferentes figuras
 geométricas para ello se pide crear una interfaz llamada "FiguraGeometrica" que
 declare los siguientes métodos: "calcularArea()" y "calcularPerimetro()".
